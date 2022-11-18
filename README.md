@@ -1,1 +1,1 @@
-# wafer-fault-detection
+# WaferFaultDetection
